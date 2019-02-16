@@ -14,5 +14,5 @@ The SQL query used to create the data used in the visualization.
 
 #Files
 
-the final presentation slides.
-Queries.sql the sql query statement used.
+- the final presentation slides.
+- Query, the sql query statement used.
